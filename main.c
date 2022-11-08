@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//main func
 int main()
 {
     printf("Hello World");
